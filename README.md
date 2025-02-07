@@ -16,26 +16,26 @@ Cada capítulo do livro será estudado e implementado em arquivos separados. A o
 
 ```
 📂 Entendendo-Algoritmos
-├── 📂 Capitulo-01_Busca-Binaria
-│   ├── resumo.md
+├── 📂 Capitulo-01_Pesquisa_Binaria
+│   ├── readme.md
 │   ├── busca_binaria.py
 ├── 📂 Capitulo-02_Ordenacao
-│   ├── resumo.md
+│   ├── readme.md
 │   ├── ordenacao_por_selecao.py
 ├── 📂 Capitulo-03_Recursao
-│   ├── resumo.md
+│   ├── readme.md
 │   ├── recursao_exemplo.py
 ...
 ```
 
 Cada pasta conterá:
-- **resumo.md** → Resumo teórico do capítulo.
+- **readme.md** → Resumo teórico do capítulo.
 - **Código fonte** → Implementações dos algoritmos do capítulo em diferentes linguagens.
 
 ## 🚀 Como Usar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/gustavoguerradev/entendendo-algortimos.git
+   git clone https://github.com/gustavoguerradev/entendendo-algoritmos.git
    ```
 2. Acesse o diretório e estude os capítulos.
 3. Execute os códigos para ver os algoritmos em funcionamento.
@@ -54,5 +54,4 @@ Caso queira sugerir melhorias ou discutir os algoritmos, sinta-se à vontade par
 ## 📚 Referência
 - **Bhargava, Aditya. "Entendendo Algoritmos".** Editora: Novatec
 
----
-✍️ _Última atualização: [Mês/Ano]_
+
