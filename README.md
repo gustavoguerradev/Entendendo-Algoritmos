@@ -1,4 +1,6 @@
-# Entendendo Algoritmos - Estudos
+![Entendendo-Algoritmos](https://m.media-amazon.com/images/I/71Vkg7GfPFL._AC_UF1000,1000_QL80_.jpg)
+
+# <span style="color: #d81818"> Entendendo </span> Algoritmos - Estudos
 
 Este repositório contém anotações, resumos e implementações dos conceitos abordados no livro **"Entendendo Algoritmos"** de Aditya Bhargava. O objetivo é reforçar o aprendizado e praticar os algoritmos apresentados no livro.
 
